@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		I'm just having <a href="/test">fun</a> with<br />✨ SvelteKit ✨
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		there's not much here right now
 	</h2>
 
 	<Counter />
